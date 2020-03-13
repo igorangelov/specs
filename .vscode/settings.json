@@ -1,0 +1,15 @@
+{
+	"workbench.colorCustomizations": {
+		"titleBar.activeBackground": "#398a51",
+		"titleBar.activeForeground": "#fff",
+		"titleBar.inactiveBackground": "#395527"
+	},
+	"eslint.packageManager": "yarn",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"[*]": {
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true
+		}
+	}
+}
